@@ -1,2 +1,4 @@
 <?php
-    echo 'hello world';
+    $a = 'Hello World!';
+    $a;
+
